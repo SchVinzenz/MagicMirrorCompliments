@@ -1,6 +1,4 @@
-> ⚠️ MagicMirror-Compliments auf Deutsch
-
-> ⚠️ MagicMirror-Compliments is deprecated, please consider creating your own fork.
+> ⚠️ Komplimente für den Magic Mirror auf Deutsch
 
 # MagicMirror-Compliments [![No Maintenance Intended](https://unmaintained.tech/badge.svg)](https://unmaintained.tech/)
 I wanted the MagicMirror compliments in my own language, so here are some translations. Feel free to add your own language!
