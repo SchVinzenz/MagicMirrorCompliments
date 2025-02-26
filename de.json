@@ -1,51 +1,30 @@
 {
-    "anytime": [
-        "Du siehst heute richtig toll aus!",
-        "Du siehst heute großartig aus!",
-        "Heute wird ein wunderbarer Tag für dich!",
-        "Schön, dass es dich gibt!",
-        "Dein Lächeln macht den Tag noch schöner!",
-        "Schau dich an – einfach großartig!",
-        "Ich hoffe, du hast heute viele schöne Momente!",
-        "Bleib so einzigartig, wie du bist!",
-        "Ein positiver Gedanke für dich: Du bist wertvoll!",
-        "Du bist eine großartige Person, vergiss das nie!",
-        "Jeder Moment mit dir macht die Welt ein Stück besser!"
-    ],
-    "morning": [
-        "Guten Morgen! Ich hoffe, du startest gut in den Tag!",
-        "Heute wartet ein neuer, spannender Tag auf dich!",
-        "Genieße die morgendliche Ruhe und starte entspannt!",
-        "Mach dir einen schönen Morgen, du hast es verdient!",
-        "Ein gutes Frühstück gibt dir Energie für den Tag!",
-        "Starte mit einem Lächeln – es wird ein toller Tag!",
-        "Die Sonne scheint für dich – mach das Beste draus!",
-        "Jeder neue Tag ist eine neue Chance, mach was draus!",
-        "Dein Haar ist mega heute!",
-        "Beginne den Tag mit einem Lächeln",
-        "Das wird ein schöner Tag!",
-        "Ist der Tag nicht großartig?",
-        "Mach dich bereit für einen großartigen Tag!"
-    ],
-    "afternoon": [
-        "Bleib dran, du machst das super!",
-        "Gönn dir einen Moment zum Durchatmen!",
-        "Ich hoffe, dein Tag läuft gut!",
-        "Nicht mehr lange bis zum Feierabend – du hast es fast geschafft!",
-        "Ein kleiner Spaziergang tut jetzt sicher gut!",
-        "Genieße den Nachmittag und gönn dir etwas Schönes!",
-        "Der Tag ist noch nicht vorbei – nutze ihn gut!",
-        "Du hast schon so viel geschafft, weiter so!"
-    ],
-    "evening": [
-        "Jetzt ist Zeit für dich – entspanne dich und genieße den Abend!",
-        "Ich hoffe, du hattest einen erfolgreichen Tag!",
-        "Lass den Abend ruhig ausklingen – du hast es dir verdient!",
-        "Was gibt es Leckeres zum Abendessen? Guten Appetit!",
-        "Jetzt kannst du abschalten und dich auf dich konzentrieren!",
-        "Träum schön und erhole dich gut für morgen!",
-        "Schließe den Tag mit einem guten Gedanken ab!",
-        "Gönn dir etwas Schönes – du hast es dir verdient!",
-        "Yeah, Freizeit",
-    ]
+        "anytime" : [
+                "Du siehst heute großartig aus!",
+                "Heute ist ein großartiger Tag!",
+                "Du machst den Unterschied!",
+                "Ein wunderschönes Lächeln, für einen wunderschönen Tag",
+                "Schaust du noch immer in den Spiegel?",
+                "Der Spiegel sagt: 'Hallo!'"
+        ],
+        "morning" : [
+                "Dein Haar ist mega heute!",
+                "Beginne den Tag mit einem Lächeln",
+                "Das wird ein schöner Tag!",
+                "Ist der Tag nicht großartig?",
+                "Mach dich bereit für einen großartigen Tag!"
+        ],
+        "afternoon" : [
+                "Mache noch schnell deine Arbeit fertig ...",
+                "Nachmittag, nicht Morgen, nicht Mittag",
+                "Dieser Tag ist großartig",
+                "Beinahe Abendessenszeit!"
+        ],
+        "evening" : [
+                "Nur ein paar Anrufe zu erledigen ...",
+                "Guten Apetit",
+                "Yeah, Freizeit",
+                "Du machst den Unterschied",
+                "War das Essen gut?"
+        ]
 }
