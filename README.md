@@ -1,3 +1,5 @@
+> ⚠️ MagicMirror-Compliments auf Deutsch
+
 > ⚠️ MagicMirror-Compliments is deprecated, please consider creating your own fork.
 
 # MagicMirror-Compliments [![No Maintenance Intended](https://unmaintained.tech/badge.svg)](https://unmaintained.tech/)
