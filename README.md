@@ -21,21 +21,21 @@ Scroll till you can see the compliments module. It looks something like this:
 },
 ```
 Change it to:
-> ⚠️ MagicMirror-Compliments is deprecated, please consider creating your own fork and using that url as ```remoteFile```.
+
 ```javascript
 {
     module: "compliments",
     position: "lower_third",
     config: {
-        remoteFile: "https://raw.githubusercontent.com/michadenheijer/MagicMirrorCompliments/main/nl.json"
+        remoteFile: "https://raw.githubusercontent.com/SchVinzenz/MagicMirrorCompliments/refs/heads/main/de.json"
     }
 },
 ```
 Change ```nl.json``` to your own language like ```en.json``` or ```fr.json```. The abbreviation of your language can be found above.
 
 ## Credits
-Dutch and English languages by [Micha den Heijer](https://github.com/michadenheijer), 
-German language by [fixing-it](https://github.com/fixing-it),
-Chuvash language by [mirontoli](https://github.com/mirontoli).
+[https://michadenheijer.github.io/MagicMirrorCompliments](https://michadenheijer.github.io/MagicMirrorCompliments)
 # Visit MagicMirror!
 [MagicMirror](https://github.com/MichMich/MagicMirror)
+# Visit also:
+[https://technik.schächner.de/blog/2025/01/17/magic-mirror-leitfaden/](https://technik.schächner.de/blog/2025/01/17/magic-mirror-leitfaden/)
